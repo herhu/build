@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83fc3353.chunk.css",
+    "main.js": "/static/js/main.13c2d249.chunk.js",
+    "main.js.map": "/static/js/main.13c2d249.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.65783514.js",
+    "runtime-main.js.map": "/static/js/runtime-main.65783514.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.2054725b.chunk.js": "/static/js/2.2054725b.chunk.js",
+    "static/js/2.2054725b.chunk.js.map": "/static/js/2.2054725b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.83fc3353.chunk.css.map": "/static/css/main.83fc3353.chunk.css.map",
+    "static/js/2.2054725b.chunk.js.LICENSE.txt": "/static/js/2.2054725b.chunk.js.LICENSE.txt",
+    "static/media/BANO-JACUZZI_644X386PX.cb930120.png": "/static/media/BANO-JACUZZI_644X386PX.cb930120.png",
+    "static/media/CMN_7815.a1382566.png": "/static/media/CMN_7815.a1382566.png",
+    "static/media/CMN_7889.caf0f480.png": "/static/media/CMN_7889.caf0f480.png",
+    "static/media/JR_KING.cb10bc17.png": "/static/media/JR_KING.cb10bc17.png",
+    "static/media/KING_644X386PX.f2d3c718.png": "/static/media/KING_644X386PX.f2d3c718.png",
+    "static/media/STPR_644X386PX.10de5e49.png": "/static/media/STPR_644X386PX.10de5e49.png",
+    "static/media/SUITE_644X386PX.f6b62042.png": "/static/media/SUITE_644X386PX.f6b62042.png",
+    "static/media/SUITE_PREMIUM.0f6c869a.png": "/static/media/SUITE_PREMIUM.0f6c869a.png",
+    "static/media/TWIN_644X386PX.f3ac24fe.png": "/static/media/TWIN_644X386PX.f3ac24fe.png",
+    "static/media/breakfast.9214afc5.jpg": "/static/media/breakfast.9214afc5.jpg",
+    "static/media/styles.css": "/static/media/fondo.b9509835.jpg",
+    "static/media/logosanta.1df230ad.png": "/static/media/logosanta.1df230ad.png",
+    "static/media/triple1.5915a616.png": "/static/media/triple1.5915a616.png",
+    "static/media/zones.fc396f9d.png": "/static/media/zones.fc396f9d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65783514.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.2054725b.chunk.js",
+    "static/css/main.83fc3353.chunk.css",
+    "static/js/main.13c2d249.chunk.js"
+  ]
+}
